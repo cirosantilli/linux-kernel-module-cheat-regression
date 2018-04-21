@@ -1,0 +1,3 @@
+cmd timeout 900 ./build -a 'x86_64'
+time 625.50
+exit_status 0

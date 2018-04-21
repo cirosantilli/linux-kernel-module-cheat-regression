@@ -1,0 +1,3 @@
+cmd timeout 900 ./build -a 'arm'
+time 720.43
+exit_status 0

@@ -1,0 +1,27 @@
+= Linux Kernel Module Cheat
+
+Automatically generated historical test and benchmark results for regression analysis of https://github.com/cirosantilli/linux-kernel-module-cheat
+
+Results generated as explained at: https://github.com/cirosantilli/linux-kernel-module-cheat#benchmark-this-repo
+
+The directory names are as follows:
+
+`<sequential-id>_<sha>`
+
+e.g.:
+
+`0015_2bddcc2891b7e5ac38c10d509bdfc1c8fe347b94`
+
+`<sequential-id>` gets incremented whenever we add a new commit, and is just a convenience to keep the SHAs sorted.
+
+Benchmarks generated with:
+
+....
+./bench-all
+....
+
+on the link:https://github.com/cirosantilli/linux-kernel-module-cheat/tree/2bddcc2891b7e5ac38c10d509bdfc1c8fe347b94#p51[P51 machine].
+
+The intended frequency is about once a week, or whenever there are major changes to the repo.
+
+Not all directories need to contain all possible output files.
