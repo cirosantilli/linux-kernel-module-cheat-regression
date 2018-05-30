@@ -1,0 +1,40 @@
+cmd ./run -a x86_64 -E '/poweroff.out'
+time 2.83
+exit_status 0
+cmd ./run -a x86_64 -E '/poweroff.out' -K
+time 0.82
+exit_status 0
+cmd ./run -a x86_64 -E '/poweroff.out' -T exec_tb
+time 3.41
+exit_status 0
+instructions 2556111
+cmd ./run -a x86_64 -E 'm5 exit' -g
+time 199.99
+exit_status 0
+instructions 331604949
+cmd ./run -a arm -E '/poweroff.out'
+time 2.07
+exit_status 0
+cmd ./run -a arm -E '/poweroff.out' -T exec_tb
+time 2.22
+exit_status 0
+instructions 763523
+cmd ./run -a arm -E 'm5 exit' -g
+time 93.67
+exit_status 0
+instructions 141895047
+cmd ./run -a aarch64 -E '/poweroff.out'
+time 1.55
+exit_status 0
+cmd ./run -a aarch64 -E '/poweroff.out' -T exec_tb
+time 1.61
+exit_status 0
+instructions 246711
+cmd ./run -a aarch64 -E 'm5 exit' -g
+time 65.74
+exit_status 0
+instructions 118820240
+cmd ./run -a aarch64 -E 'm5 exit' -g -- --cpu-type=HPI --caches --l2cache --l1d_size=1024kB --l1i_size=1024kB --l2_size=1024kB --l3_size=1024kB
+time 358.37
+exit_status 0
+instructions 118758906
