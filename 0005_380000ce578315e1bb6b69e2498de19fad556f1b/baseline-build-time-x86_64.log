@@ -1,0 +1,400 @@
+1533798453:start:extract             : host-skeleton
+1533798453:end  :extract             : host-skeleton
+1533798453:start:patch               : host-skeleton
+1533798453:end  :patch               : host-skeleton
+1533798453:start:configure           : host-skeleton
+1533798453:end  :configure           : host-skeleton
+1533798453:start:build               : host-skeleton
+1533798453:end  :build               : host-skeleton
+1533798453:start:install-host        : host-skeleton
+1533798453:end  :install-host        : host-skeleton
+1533798453:start:extract             : host-lzip
+1533798453:end  :extract             : host-lzip
+1533798453:start:patch               : host-lzip
+1533798453:end  :patch               : host-lzip
+1533798453:start:configure           : host-lzip
+1533798453:end  :configure           : host-lzip
+1533798453:start:build               : host-lzip
+1533798454:end  :build               : host-lzip
+1533798454:start:install-host        : host-lzip
+1533798454:end  :install-host        : host-lzip
+1533798454:start:extract             : host-ccache
+1533798454:end  :extract             : host-ccache
+1533798454:start:patch               : host-ccache
+1533798454:end  :patch               : host-ccache
+1533798454:start:configure           : host-ccache
+1533798456:end  :configure           : host-ccache
+1533798456:start:build               : host-ccache
+1533798457:end  :build               : host-ccache
+1533798457:start:install-host        : host-ccache
+1533798457:end  :install-host        : host-ccache
+1533798459:start:extract             : host-attr
+1533798459:end  :extract             : host-attr
+1533798459:start:patch               : host-attr
+1533798459:end  :patch               : host-attr
+1533798459:start:configure           : host-attr
+1533798461:end  :configure           : host-attr
+1533798461:start:build               : host-attr
+1533798462:end  :build               : host-attr
+1533798462:start:install-host        : host-attr
+1533798462:end  :install-host        : host-attr
+1533798464:start:extract             : host-acl
+1533798464:end  :extract             : host-acl
+1533798464:start:patch               : host-acl
+1533798464:end  :patch               : host-acl
+1533798464:start:configure           : host-acl
+1533798466:end  :configure           : host-acl
+1533798466:start:build               : host-acl
+1533798468:end  :build               : host-acl
+1533798468:start:install-host        : host-acl
+1533798468:end  :install-host        : host-acl
+1533798469:start:extract             : host-fakeroot
+1533798469:end  :extract             : host-fakeroot
+1533798469:start:patch               : host-fakeroot
+1533798469:end  :patch               : host-fakeroot
+1533798469:start:configure           : host-fakeroot
+1533798474:end  :configure           : host-fakeroot
+1533798474:start:build               : host-fakeroot
+1533798475:end  :build               : host-fakeroot
+1533798475:start:install-host        : host-fakeroot
+1533798475:end  :install-host        : host-fakeroot
+1533798475:start:extract             : host-makedevs
+1533798475:end  :extract             : host-makedevs
+1533798475:start:patch               : host-makedevs
+1533798475:end  :patch               : host-makedevs
+1533798475:start:configure           : host-makedevs
+1533798475:end  :configure           : host-makedevs
+1533798475:start:build               : host-makedevs
+1533798475:end  :build               : host-makedevs
+1533798475:start:install-host        : host-makedevs
+1533798475:end  :install-host        : host-makedevs
+1533798475:start:extract             : host-binutils
+1533798477:end  :extract             : host-binutils
+1533798477:start:patch               : host-binutils
+1533798477:end  :patch               : host-binutils
+1533798477:start:configure           : host-binutils
+1533798479:end  :configure           : host-binutils
+1533798479:start:build               : host-binutils
+1533798502:end  :build               : host-binutils
+1533798502:start:install-host        : host-binutils
+1533798503:end  :install-host        : host-binutils
+1533798504:start:extract             : host-m4
+1533798504:end  :extract             : host-m4
+1533798504:start:patch               : host-m4
+1533798504:end  :patch               : host-m4
+1533798504:start:configure           : host-m4
+1533798520:end  :configure           : host-m4
+1533798520:start:build               : host-m4
+1533798520:end  :build               : host-m4
+1533798520:start:install-host        : host-m4
+1533798520:end  :install-host        : host-m4
+1533798521:start:extract             : host-gmp
+1533798521:end  :extract             : host-gmp
+1533798521:start:patch               : host-gmp
+1533798521:end  :patch               : host-gmp
+1533798521:start:configure           : host-gmp
+1533798533:end  :configure           : host-gmp
+1533798533:start:build               : host-gmp
+1533798542:end  :build               : host-gmp
+1533798542:start:install-host        : host-gmp
+1533798543:end  :install-host        : host-gmp
+1533798543:start:extract             : host-mpfr
+1533798543:end  :extract             : host-mpfr
+1533798543:start:patch               : host-mpfr
+1533798543:end  :patch               : host-mpfr
+1533798543:start:configure           : host-mpfr
+1533798548:end  :configure           : host-mpfr
+1533798548:start:build               : host-mpfr
+1533798555:end  :build               : host-mpfr
+1533798555:start:install-host        : host-mpfr
+1533798555:end  :install-host        : host-mpfr
+1533798555:start:extract             : host-mpc
+1533798555:end  :extract             : host-mpc
+1533798556:start:patch               : host-mpc
+1533798556:end  :patch               : host-mpc
+1533798556:start:configure           : host-mpc
+1533798558:end  :configure           : host-mpc
+1533798558:start:build               : host-mpc
+1533798561:end  :build               : host-mpc
+1533798561:start:install-host        : host-mpc
+1533798561:end  :install-host        : host-mpc
+1533798561:start:extract             : host-gcc-initial
+1533798567:end  :extract             : host-gcc-initial
+1533798567:start:patch               : host-gcc-initial
+1533798567:end  :patch               : host-gcc-initial
+1533798567:start:configure           : host-gcc-initial
+1533798569:end  :configure           : host-gcc-initial
+1533798569:start:build               : host-gcc-initial
+1533798712:end  :build               : host-gcc-initial
+1533798712:start:install-host        : host-gcc-initial
+1533798716:end  :install-host        : host-gcc-initial
+1533798716:start:extract             : skeleton-init-common
+1533798716:end  :extract             : skeleton-init-common
+1533798716:start:patch               : skeleton-init-common
+1533798716:end  :patch               : skeleton-init-common
+1533798716:start:configure           : skeleton-init-common
+1533798716:end  :configure           : skeleton-init-common
+1533798717:start:build               : skeleton-init-common
+1533798717:end  :build               : skeleton-init-common
+1533798717:start:install-staging     : skeleton-init-common
+1533798717:end  :install-staging     : skeleton-init-common
+1533798717:start:install-target      : skeleton-init-common
+1533798717:end  :install-target      : skeleton-init-common
+1533798717:start:extract             : skeleton-init-sysv
+1533798717:end  :extract             : skeleton-init-sysv
+1533798717:start:patch               : skeleton-init-sysv
+1533798717:end  :patch               : skeleton-init-sysv
+1533798717:start:configure           : skeleton-init-sysv
+1533798717:end  :configure           : skeleton-init-sysv
+1533798717:start:build               : skeleton-init-sysv
+1533798717:end  :build               : skeleton-init-sysv
+1533798717:start:install-target      : skeleton-init-sysv
+1533798717:end  :install-target      : skeleton-init-sysv
+1533798717:start:extract             : skeleton
+1533798717:end  :extract             : skeleton
+1533798717:start:patch               : skeleton
+1533798717:end  :patch               : skeleton
+1533798717:start:configure           : skeleton
+1533798717:end  :configure           : skeleton
+1533798717:start:build               : skeleton
+1533798717:end  :build               : skeleton
+1533798717:start:install-target      : skeleton
+1533798717:end  :install-target      : skeleton
+1533798717:start:extract             : linux-headers
+1533798724:end  :extract             : linux-headers
+1533798724:start:patch               : linux-headers
+1533798724:end  :patch               : linux-headers
+1533798724:start:configure           : linux-headers
+1533798729:end  :configure           : linux-headers
+1533798729:start:build               : linux-headers
+1533798729:end  :build               : linux-headers
+1533798729:start:install-staging     : linux-headers
+1533798732:end  :install-staging     : linux-headers
+1533798732:start:install-target      : linux-headers
+1533798732:end  :install-target      : linux-headers
+1533798732:start:extract             : uclibc
+1533798733:end  :extract             : uclibc
+1533798733:start:patch               : uclibc
+1533798733:end  :patch               : uclibc
+1533798734:start:configure           : uclibc
+1533798734:end  :configure           : uclibc
+1533798734:start:build               : uclibc
+1533798819:end  :build               : uclibc
+1533798819:start:install-staging     : uclibc
+1533798820:end  :install-staging     : uclibc
+1533798820:start:install-target      : uclibc
+1533798824:end  :install-target      : uclibc
+1533798824:start:extract             : host-gcc-final
+1533798829:end  :extract             : host-gcc-final
+1533798829:start:patch               : host-gcc-final
+1533798829:end  :patch               : host-gcc-final
+1533798829:start:configure           : host-gcc-final
+1533798831:end  :configure           : host-gcc-final
+1533798831:start:build               : host-gcc-final
+1533798888:end  :build               : host-gcc-final
+1533798888:start:install-host        : host-gcc-final
+1533798891:end  :install-host        : host-gcc-final
+1533798891:start:extract             : toolchain-buildroot
+1533798891:end  :extract             : toolchain-buildroot
+1533798891:start:patch               : toolchain-buildroot
+1533798891:end  :patch               : toolchain-buildroot
+1533798891:start:configure           : toolchain-buildroot
+1533798891:end  :configure           : toolchain-buildroot
+1533798891:start:build               : toolchain-buildroot
+1533798891:end  :build               : toolchain-buildroot
+1533798891:start:install-target      : toolchain-buildroot
+1533798891:end  :install-target      : toolchain-buildroot
+1533798892:start:extract             : toolchain
+1533798892:end  :extract             : toolchain
+1533798892:start:patch               : toolchain
+1533798892:end  :patch               : toolchain
+1533798892:start:configure           : toolchain
+1533798892:end  :configure           : toolchain
+1533798892:start:build               : toolchain
+1533798892:end  :build               : toolchain
+1533798892:start:install-staging     : toolchain
+1533798892:end  :install-staging     : toolchain
+1533798892:start:install-target      : toolchain
+1533798892:end  :install-target      : toolchain
+1533798892:start:extract             : busybox
+1533798892:end  :extract             : busybox
+1533798892:start:patch               : busybox
+1533798892:end  :patch               : busybox
+1533798899:start:configure           : busybox
+1533798899:end  :configure           : busybox
+1533798899:start:build               : busybox
+1533798909:end  :build               : busybox
+1533798909:start:install-target      : busybox
+1533798911:end  :install-target      : busybox
+1533798911:start:extract             : host-pkgconf
+1533798911:end  :extract             : host-pkgconf
+1533798911:start:patch               : host-pkgconf
+1533798911:end  :patch               : host-pkgconf
+1533798911:start:configure           : host-pkgconf
+1533798912:end  :configure           : host-pkgconf
+1533798912:start:build               : host-pkgconf
+1533798913:end  :build               : host-pkgconf
+1533798913:start:install-host        : host-pkgconf
+1533798913:end  :install-host        : host-pkgconf
+1533798913:start:extract             : host-libzlib
+1533798913:end  :extract             : host-libzlib
+1533798913:start:patch               : host-libzlib
+1533798913:end  :patch               : host-libzlib
+1533798913:start:configure           : host-libzlib
+1533798913:end  :configure           : host-libzlib
+1533798913:start:build               : host-libzlib
+1533798914:end  :build               : host-libzlib
+1533798914:start:install-host        : host-libzlib
+1533798914:end  :install-host        : host-libzlib
+1533798914:start:extract             : host-zlib
+1533798914:end  :extract             : host-zlib
+1533798914:start:patch               : host-zlib
+1533798914:end  :patch               : host-zlib
+1533798914:start:configure           : host-zlib
+1533798914:end  :configure           : host-zlib
+1533798914:start:build               : host-zlib
+1533798914:end  :build               : host-zlib
+1533798915:start:install-host        : host-zlib
+1533798915:end  :install-host        : host-zlib
+1533798915:start:extract             : host-util-linux
+1533798915:end  :extract             : host-util-linux
+1533798915:start:patch               : host-util-linux
+1533798915:end  :patch               : host-util-linux
+1533798915:start:configure           : host-util-linux
+1533798924:end  :configure           : host-util-linux
+1533798924:start:build               : host-util-linux
+1533798936:end  :build               : host-util-linux
+1533798936:start:install-host        : host-util-linux
+1533798936:end  :install-host        : host-util-linux
+1533798937:start:extract             : host-e2fsprogs
+1533798937:end  :extract             : host-e2fsprogs
+1533798937:start:patch               : host-e2fsprogs
+1533798937:end  :patch               : host-e2fsprogs
+1533798937:start:configure           : host-e2fsprogs
+1533798949:end  :configure           : host-e2fsprogs
+1533798949:start:build               : host-e2fsprogs
+1533798955:end  :build               : host-e2fsprogs
+1533798955:start:install-host        : host-e2fsprogs
+1533798956:end  :install-host        : host-e2fsprogs
+1533798956:start:extract             : ifupdown-scripts
+1533798956:end  :extract             : ifupdown-scripts
+1533798956:start:patch               : ifupdown-scripts
+1533798956:end  :patch               : ifupdown-scripts
+1533798956:start:configure           : ifupdown-scripts
+1533798956:end  :configure           : ifupdown-scripts
+1533798956:start:build               : ifupdown-scripts
+1533798956:end  :build               : ifupdown-scripts
+1533798956:start:install-target      : ifupdown-scripts
+1533798956:end  :install-target      : ifupdown-scripts
+1533798956:start:extract             : initscripts
+1533798956:end  :extract             : initscripts
+1533798957:start:patch               : initscripts
+1533798957:end  :patch               : initscripts
+1533798957:start:configure           : initscripts
+1533798957:end  :configure           : initscripts
+1533798957:start:build               : initscripts
+1533798957:end  :build               : initscripts
+1533798957:start:install-target      : initscripts
+1533798957:end  :install-target      : initscripts
+1533798957:start:extract             : host-patchelf
+1533798957:end  :extract             : host-patchelf
+1533798957:start:patch               : host-patchelf
+1533798957:end  :patch               : host-patchelf
+1533798957:start:configure           : host-patchelf
+1533798958:end  :configure           : host-patchelf
+1533798958:start:build               : host-patchelf
+1533798958:end  :build               : host-patchelf
+1533798958:start:install-host        : host-patchelf
+1533798958:end  :install-host        : host-patchelf
+1533798959:start:extract             : host-bison
+1533798959:end  :extract             : host-bison
+1533798959:start:patch               : host-bison
+1533798959:end  :patch               : host-bison
+1533798959:start:configure           : host-bison
+1533798980:end  :configure           : host-bison
+1533798980:start:build               : host-bison
+1533798982:end  :build               : host-bison
+1533798982:start:install-host        : host-bison
+1533798982:end  :install-host        : host-bison
+1533798983:start:extract             : host-libtool
+1533798983:end  :extract             : host-libtool
+1533798983:start:patch               : host-libtool
+1533798983:end  :patch               : host-libtool
+1533798983:start:configure           : host-libtool
+1533798987:end  :configure           : host-libtool
+1533798988:start:build               : host-libtool
+1533798989:end  :build               : host-libtool
+1533798989:start:install-host        : host-libtool
+1533798989:end  :install-host        : host-libtool
+1533798989:start:extract             : host-autoconf
+1533798990:end  :extract             : host-autoconf
+1533798990:start:patch               : host-autoconf
+1533798990:end  :patch               : host-autoconf
+1533798990:start:configure           : host-autoconf
+1533798991:end  :configure           : host-autoconf
+1533798991:start:build               : host-autoconf
+1533798992:end  :build               : host-autoconf
+1533798992:start:install-host        : host-autoconf
+1533798992:end  :install-host        : host-autoconf
+1533798993:start:extract             : host-automake
+1533798993:end  :extract             : host-automake
+1533798993:start:patch               : host-automake
+1533798993:end  :patch               : host-automake
+1533798993:start:configure           : host-automake
+1533798994:end  :configure           : host-automake
+1533798994:start:build               : host-automake
+1533798994:end  :build               : host-automake
+1533798994:start:install-host        : host-automake
+1533798995:end  :install-host        : host-automake
+1533798995:start:extract             : host-libxml2
+1533798995:end  :extract             : host-libxml2
+1533798995:start:patch               : host-libxml2
+1533798995:end  :patch               : host-libxml2
+1533798995:start:configure           : host-libxml2
+1533799001:end  :configure           : host-libxml2
+1533799001:start:build               : host-libxml2
+1533799002:end  :build               : host-libxml2
+1533799002:start:install-host        : host-libxml2
+1533799002:end  :install-host        : host-libxml2
+1533799003:start:extract             : host-gettext
+1533799003:end  :extract             : host-gettext
+1533799003:start:patch               : host-gettext
+1533799003:end  :patch               : host-gettext
+1533799004:start:configure           : host-gettext
+1533799054:end  :configure           : host-gettext
+1533799054:start:build               : host-gettext
+1533799072:end  :build               : host-gettext
+1533799073:start:install-host        : host-gettext
+1533799084:end  :install-host        : host-gettext
+1533799085:start:extract             : host-flex
+1533799085:end  :extract             : host-flex
+1533799085:start:patch               : host-flex
+1533799085:end  :patch               : host-flex
+1533799085:start:configure           : host-flex
+1533799096:end  :configure           : host-flex
+1533799096:start:build               : host-flex
+1533799097:end  :build               : host-flex
+1533799097:start:install-host        : host-flex
+1533799097:end  :install-host        : host-flex
+1533799098:start:extract             : host-kmod
+1533799098:end  :extract             : host-kmod
+1533799098:start:patch               : host-kmod
+1533799098:end  :patch               : host-kmod
+1533799098:start:configure           : host-kmod
+1533799102:end  :configure           : host-kmod
+1533799102:start:build               : host-kmod
+1533799103:end  :build               : host-kmod
+1533799103:start:install-host        : host-kmod
+1533799103:end  :install-host        : host-kmod
+1533799104:start:extract             : linux
+1533799110:end  :extract             : linux
+1533799110:start:patch               : linux
+1533799111:end  :patch               : linux
+1533799113:start:configure           : linux
+1533799113:end  :configure           : linux
+1533799113:start:build               : linux
+1533799238:end  :build               : linux
+1533799238:start:install-target      : linux
+1533799238:end  :install-target      : linux
+1533799238:start:install-image       : linux
+1533799238:end  :install-image       : linux
